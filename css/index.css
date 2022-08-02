@@ -1,0 +1,17 @@
+body{
+    background-image: url(fundo_espaco1.jpg);
+    margin: 60px;
+}
+#retangulo{
+    margin-left: 850px;
+    color: white;
+}
+h3{
+    color: white;
+}
+img{
+        margin-left: 720px;
+}
+p{
+    text-align: center;
+}
